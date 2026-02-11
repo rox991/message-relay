@@ -8,3 +8,6 @@ Python payload that sets up a simple server on the victim's device, allowing you
     *Run the client script above.
     *Enter any message you want to send to the victim's device.
     *The message will be displayed on the victim's screen.
+
+
+<img width="834" height="273" alt="image" src="https://github.com/user-attachments/assets/8f205668-f724-4581-b722-bb928a4be17f" />
